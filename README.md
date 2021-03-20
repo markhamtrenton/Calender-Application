@@ -10,7 +10,6 @@ screenshots below
 
 ![calender2](https://user-images.githubusercontent.com/77074964/111885331-7faf5580-899d-11eb-85bc-6803ed055f52.jpg)
 ![calender1](https://user-images.githubusercontent.com/77074964/111885334-81791900-899d-11eb-88a9-1e61043f0697.jpg)
-In this weeks HW we had to creat a calender app that would display the current time and date and aswell as have a work planner scheduler where each timeblock is color coded to indicate whether it is in the past, present, or future.
 
 
 
