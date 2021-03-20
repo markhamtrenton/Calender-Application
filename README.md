@@ -1,3 +1,42 @@
+In this weeks HW we had to creat a calender app that would display the current time and date and aswell as have a work planner scheduler where each timeblock is color coded to indicate whether it is in the past, present, or future.
+
+Github deploy link: https://markhamtrenton.github.io/Calender-Application/index.html
+Github repo link: https://github.com/markhamtrenton/3-Password-Generator
+screenshots below
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 05 Third-Party APIs: Work Day Scheduler
 
 ## Your Task
